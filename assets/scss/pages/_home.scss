@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+// // 1-ci
+
+// main{
+//     position: relative;
+//   }
+//   header {
+//     display: flex;
+//     align-items: center;
+//     justify-content: center;
+//     width: 100%;
+//     height: auto;
+//     z-index: 4;
+//     position: absolute;
+//     background-color: transparent;
+//     nav {
+//       width: 75%;
+//       margin: auto;
+//       button{
+//         display: none;
+//       }
+//       .logo{
+//         width: 200px;
+//         height: 50px;
+//         display: flex;
+//         justify-content: center;
+//         align-items: center;
+//         img{
+//         max-width: 100%;
+//         height: 37px;
+//         }
+//         }
+//       }
+//       .collapseDiv{
+//         justify-content: flex-end;
+//         .navItem{
+
+//             font-family: 'Raleway', sans-serif;
+//             font-size: 11px;
+//             color: #fff;
+//             padding: 10px 12px;
+//             font-weight: 800;
+//             transition: 1s ;
+//             &:hover{
+//                 color: #D73E4D;
+//                 transition: 1s ;
+//             }
+//         }}
+      
+      
+//     section{
+//         width: 100%;
+//         height: 700px;
+//         display: flex;
+//         justify-content: center;
+//         align-items: center;
+//         background-position: center;
+//         background-image: url('https://preview.colorlib.com/theme/bizpro/images/home/slide-1.jpg');
+//         .text{
+//             display: flex;
+//             flex-direction: column;
+//             justify-content: center;
+//             align-items: center;
+//             font-family: inherit;
+//             h1{
+//                 font-size: 40px;
+//                 line-height: 1.1;
+//                 font-weight: 700;
+//                 color: #FFFFFF;
+//             }
+//             p{
+//                 font-size: 15px;
+//                 color: #FFFFFF;
+//                 font-weight: 500;
+
+//             }
+//             button{
+//                 width: 160px;
+//                 height: 45px;
+//                 color: #FFFFFF;
+//                 font-size: 13px;
+//                 background-color: transparent;
+//                 border: 1px solid #D73E4D;
+//                 &:hover{
+//                     background-color: #D73E4D;
+//                 }
+//             }
+//         }
+//     }}
+
+// 2-ci
+
+// header {
+//     width: 100%;
+//     height: 90px;
+//     background-color: whitesmoke;
+//     nav {
+//       width: 70%;
+//       margin: auto;
+//       background-color:whitesmoke ;
+//       .itemLogo{
+//         color: black;
+//         font-family: "Open Sans", Arial, sans-serif;
+//         text-transform: uppercase;
+//         letter-spacing: .2em;
+//         font-weight: 500;
+//         font-size: 15px;
+//       }
+//       .collapseDiv{
+//         justify-content: flex-end;
+//         padding: 10px;
+//         .navItem{
+//             color: black;
+//             font-size: 13px;
+//             font-weight: 500px;
+//             transition: 1.5s;
+//             padding: 10px;
+//             font-family: "Open Sans", Arial, sans-serif;
+//             &:hover{
+//                 color: #BC5148;
+//             }
+//         }
+    
+      
+//       }
+//     }}
+
